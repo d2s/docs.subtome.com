@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://incorporated.sendtoinc.com</link>
+    <atom:link href="http://incorporated.sendtoinc.com/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pubsubhubbub.superfeedr.com/" rel="hub" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Tue, 05 Nov 2013 15:57:47 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Nov 2013 15:57:47 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://incorporated.sendtoinc.com/2013/10/08/hello-world/</link>
+      <pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://incorporated.sendtoinc.com/2013/10/08/hello-world</guid>
+      <description>&lt;p&gt;This is the new documentation site for &lt;a href='https://www.subtome.com/#/'&gt;SubToMe&lt;/a&gt;. It will include general documentation for the &lt;a href='/publishers/'&gt;publishers&lt;/a&gt; who implemented the button, the &lt;a href='/developers/'&gt;readers&lt;/a&gt; who are able to handle these subscriptions as well as news related to SubToMe: new releases, interesting implementations, goodies&amp;#8230; etc.&lt;/p&gt;
+
+&lt;p&gt;Please, stay with us, &lt;a class='btn btn-outline' href='#' onclick='(function(){var z=document.createElement(&amp;apos;script&amp;apos;);z.src=&amp;apos;https://www.subtome.com/load.js&amp;apos;;document.body.appendChild(z);})()'&gt;Subscribe!&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    
+
+  </channel>
+</rss>
