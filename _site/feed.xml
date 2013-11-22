@@ -7,9 +7,34 @@
     <atom:link href="http://pubsubhubbub.superfeedr.com/" rel="hub" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Tue, 05 Nov 2013 15:57:47 +0000</pubDate>
-    <lastBuildDate>Tue, 05 Nov 2013 15:57:47 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Nov 2013 23:24:00 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Nov 2013 23:24:00 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>Beautiful integrations</title>
+      <link>http://incorporated.sendtoinc.com/2013/11/22/popular-sites-of-november/</link>
+      <pubDate>Fri, 22 Nov 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://incorporated.sendtoinc.com/2013/11/22/popular-sites-of-november</guid>
+      <description>&lt;p&gt;One of the key design goals behind SubToMe is to make it as open as possible. To achieve that, we make sure that SubToMe is only built using HTML, CSS and Javascript.&lt;/p&gt;
+
+&lt;p&gt;The key benefit of that approach is that you can easily tweak SubToMe to make it fit your design!&lt;/p&gt;
+
+&lt;p&gt;Here are three websites which did a great job:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://www.christophh.net/#'&gt;http://www.christophh.net/&lt;/a&gt;: a beautiful flat design button. Hard to not click to get more!&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://continuations.com/'&gt;http://continuations.com/&lt;/a&gt;: nice integration in the top menu bar.&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://blog.izs.me'&gt;http://blog.izs.me&lt;/a&gt;: each post ends with an invitation to send an email or follow this blog. Nice call to action!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Did you put a SubToMe button on your site? Let us know in the comments.&lt;/p&gt;</description>
+    </item>
+    
     
     
     <item>
