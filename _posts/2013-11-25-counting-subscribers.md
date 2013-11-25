@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Counting Subscribers
-subtitle: ""
+subtitle: "Feedburner became popular by tracking the number of subscribers. Even if decentralization makes that hard, it's still possible to get some data. Here's how to achieve that with SubToMe."
 
 author:
   name: Julien Genestoux
