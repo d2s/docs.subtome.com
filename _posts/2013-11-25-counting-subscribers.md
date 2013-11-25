@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Counting Susbcribers
+title: Counting Subscribers
 subtitle: ""
 
 author:
@@ -10,9 +10,9 @@ author:
   bio: Co-founder, Superfeedr.
 ---
 
-Right or wrong, the **amount of "followers"** is often used as a proxy for *popularity* and *importance*. We believe this is the reasons why Feedburner quickly got so popular: it gave publishers and bloggers an interesting metric that they could compare with others. Years later, the number of followers on Twitter is also prominent on [their follow buttons](https://dev.twitter.com/docs/follow-button).
+Right or wrong, the **amount of "followers"** is often used as a proxy for *popularity* and *importance*. We believe this is the reasons why [Feedburner](http://www.feedburner.com/‎) quickly got so popular: it gave publishers and bloggers an interesting metric that they could compare. Years later, the number of followers on Twitter is also prominent on [their follow buttons](https://dev.twitter.com/docs/follow-button).
 
-Now, since SubToMe is fully **decentralized** (publishing applications and subscribing application are unaware of each other), it's really hard to provide accurate analytics (not that Feedburner's stats were accurate either... but that's another story).However, there is one thing that SubToMe can tell the publisher: that a *susbcription happened*.
+Now, since SubToMe is fully **decentralized** (publishing applications and subscribing applications are unaware of each other), it's really hard to provide accurate analytics (not that Feedburner's stats were accurate either... but that's another story). However, there is one thing that SubToMe can tell the publisher: that a *susbcription happened*.
 
 Basically, everytime someone clicks on the SubToMe button you've put on your site, SubToMe will *trigger a Javascript event* that you should listen to. The event incldues the following information:
 
