@@ -39,7 +39,7 @@ inc:
 
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://incorporated.sendtoinc.com
+url:         http://docs.subtome.com/
 source:      .
 destination: ./_site
 plugins:     ./_plugins
