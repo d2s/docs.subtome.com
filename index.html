@@ -23,34 +23,13 @@ layout: base
     </section>
 </div>
 
-
 <article class="container">
-{% for post in paginator.posts %}
-  {% unless post.draft %}
-    <section class="index">
-        <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
-        <div>
-            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt }}</p>
-            <div class="meta">
-                Written By <address>{{ post.author.name }}</a> &mdash;
-                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
-            </div>
-        </div>
-        <hr>
-    </section>
-    {% endunless %}
-    {% endfor %}
-    <section class="pagination" style="text-align:center">
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <a href="/" class="btn btn-outline">‹ Newer</a>
-        {% else %}
-        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
-        {% endif %}
-      {% endif %}
-      {% if paginator.next_page %}
-        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
-      {% endif %}
+    <section>
+        <h2>What is SubToMe?</h2>
+        <p><a href="https://www.subtome.com/#/">SubToMe</a> is a universal follow button for the open web. It can be put on any website and can be used to follow these sites using any reader.</p>
+        <h2>How can I use it?</h2>
+        <p>If you own a website and publish feeds on this website, you are a <a href="publishers">publisher</a> in SubToMe's world. You should put a <em>button on your site</em> so that your readers can become followers! If you let them follow your site, they're more likely to come back to it.</p>
+        <p>If you're just a just a regular web user, you'll probably stumble upon SubToMe button from time to time: make sure you use them to <em>follow the sites</em> you care about.</p>
+        <p>If you are a developer and you have created an application that can be used to follow sites, you should <a href="developers">support SubToMe</a>, because it's a popular button that many sites use to be followed!</p>
     </section>
 </article>
