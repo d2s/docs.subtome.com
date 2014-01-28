@@ -57,8 +57,8 @@ pygments:    true
 relative_permalinks: true
 
 permalink:     pretty
-paginate_path: 'page:num'
-paginate: 10
+paginate_path: 'news/:num'
+paginate:      5
 
 markdown:      maruku
 markdown_ext:  markdown,mkd,mkdn,md
