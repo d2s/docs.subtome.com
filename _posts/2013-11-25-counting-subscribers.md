@@ -21,8 +21,13 @@ Basically, everytime someone clicks on the SubToMe button you've put on your sit
 * **The app** used to subscribe: its name and its url.
 
 Here is some sample code:
-<script src="https://gist.github.com/julien51/7649772.js">
-</script>
+<code>
+  window.addEventListener("message", function(event) {
+    if (event.origin !== "https://www.subtome.com")
+    return;
+    // do something with event.data.subscription
+  });
+</code>
 
 By default, the [load.js](https://www.subtome.com/load.js) file, which is the default way to load the SubToMe button, will also trigger a [Google Analytics](http://www.google.com/analytics/) (if your site uses it) event to tell you that somebody subscribed to your feed! 
 

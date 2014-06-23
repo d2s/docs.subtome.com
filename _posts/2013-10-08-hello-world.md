@@ -12,9 +12,7 @@ author:
 ---
 
 
-This is the new documentation site for <a href="https://www.subtome.com/#/">SubToMe</a>. It will include general documentation for the <a href="/publishers/">publishers</a> who implemented the button, the <a href="/developers/">readers</a> who are able to handle these subscriptions as well as news related to SubToMe: new releases, interesting implementations, goodies... etc.
-
-Please, stay with us, <a href="#" class="btn btn-outline" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()">Subscribe!</a>
+This is the new documentation site for <a href="https://www.subtome.com/#/">SubToMe</a>. It will include general documentation for the <a href="http://docs.subtome.com/publishers/">publishers</a> who implemented the button, the <a href="http://docs.subtome.com/developers/">readers</a> who are able to handle these subscriptions as well as news related to SubToMe: new releases, interesting implementations, goodies... etc.
 
 
 
