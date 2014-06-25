@@ -2,7 +2,7 @@
 layout: post
 
 title: Using Wordpress Reader with SubToMe
-subtitle: "There is no need to introduce Wordpress. Yet, few people know that Wordpress.com offers a very comple RSS reader. It is now possible to use SubToMe to follow more feeds on this reader"
+subtitle: "There is no need to introduce Wordpress. Yet, few people know that Wordpress.com offers a very complete RSS reader. It is now possible to use SubToMe to follow more feeds on this reader"
 
 author:
   name: Julien Genestoux
