@@ -13,9 +13,9 @@ author:
 
 If you've ever visited a Wordpress.com hosted blog, you've probably noticed that there are multiple buttons to follow that blog by email or using the [Wordpress.com](https://wordpress.com/) reader. Now, if your blog is not hosted on Wordpress, you can easily [add a SubToMe button](http://docs.subtome.com/publishers/) to your site so that more people follow it from their wordpress reader!
 
-Similarly, if you use the Wordpress reader to follow your favorite sources of content online, you should add the [SubToMe bookmarklet](https://www.subtome.com/#/settings) (or the [Chrome](https://chrome.google.com/webstore/detail/subtome/cjkhnlmkkfheepafpgppmpdahbjgkjfc?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/subtome-subscribe-button/) addons) so that you can easily add our favorite sites to follow!
+Similarly, if you use the Wordpress reader to follow your favorite sources of content online, you should add the [SubToMe bookmarklet](https://www.subtome.com/#/settings) (or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/subtome-subscribe-button/) addons) so that you can easily add our favorite sites to follow!
 
-And for those who wonder, yes, this happened at the [Reboot RSS workshop](http://docs.subtome.com/2014/05/21/reboot-rss/)! Our community can get so much done, much faster, when we know each other! 
+And for those who wonder, yes, this happened at the [Reboot RSS workshop](http://docs.subtome.com/2014/05/21/reboot-rss/)! Our community can get so much done, much faster, when we know each other!
 
 Happy following!
 
